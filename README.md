@@ -1,4 +1,3 @@
-```markdown
 # 🔎 Async Web Scraper with URL Validation & Page Filtering
 
 This project is a **robust, asynchronous web scraping tool** built in Python. It verifies URLs, checks if the content is alive and valid (excluding pages with `"Page not found"`), and scrapes headlines and paragraphs from structured websites.
@@ -30,8 +29,8 @@ Install all required Python packages:
 
 ```bash
 pip install aiohttp aiohttp_retry httpx beautifulsoup4 lxml pandas tqdm
-```
 
+```
 ---
 
 ## 🛠 Usage
